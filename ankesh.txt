@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Hi this is my first push to remote repository
+=======
+
+>>>>>>> 8e9a49bab1748eeafa18fc7097f9801189a93031
+
+Hi Trying to create Merge conflict
